@@ -2,7 +2,7 @@ from tkinter import *
 import random
 
 
-
+# test
 e = 1
 GAME_WIDTN = 1400
 GAME_HEIGHT = 700
